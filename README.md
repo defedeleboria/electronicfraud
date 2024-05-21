@@ -102,7 +102,7 @@ El objetivo en el contexto de un proyecto de detección de fraude en billeteras 
   
 - IDE: Jupyter Notebook y Visual Studio Code como entornos de desarrollo.
   
-- Power BI: Visualización de datos con DAX.
+- Google Looker Studio: Visualización de datos.
   
 - Streamlit: Creación de aplicación web interactiva.
   
