@@ -1,3 +1,5 @@
+#This repository is part of No Country's Simulation Tech Program in Data-BI.
+
 💎 **Nombre del Producto**
 
 ![texto cualquiera por si no carga la imagen](https://github.com/No-Country/c18-80-t-data-bi/blob/main/WS.png)
@@ -79,23 +81,34 @@ El objetivo en el contexto de un proyecto de detección de fraude en billeteras 
 🧩 **Colaboradores**
 
 
-Tulio Bastidas Alvarez - Data Analyst **>>>** https://www.linkedin.com/in/tulio-bastidas-alvarez/
+- Tulio Bastidas Alvarez - Data Analyst **>>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/)
 
-Tomás Del Barco - Data Analyst **>>>**  https://www.linkedin.com/in/tomás-del-barco-b74337229/
+- Tomás Del Barco - Data Analyst **>>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/)
 
-Estefanía Ochoa Henao - Data Analyst **>>>** https://www.linkedin.com/in/estefania-ochoa-henao/
+- Estefanía Ochoa Henao - Data Analyst **>>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/)
 
-Gabriela Franco - Data Analyst **>>>** https://www.linkedin.com/in/gabyfranco/
+- Gabriela Franco - Data Analyst **>>>** [in](https://www.linkedin.com/in/gabyfranco/)
 
-Rodrigo Nicolás Ayala - Data Science **>>>** https://www.linkedin.com/in/arodrigonicolas/
+- Rodrigo Nicolás Ayala - Data Science **>>>** [in](https://www.linkedin.com/in/arodrigonicolas/)
 
-Delicia Fedele Boria - Machine Learning **>>>** https://www.linkedin.com/in/deliciafedeleboria/
+- Delicia Fedele Boria - Machine Learning **>>>** [in](https://www.linkedin.com/in/deliciafedeleboria/)
 
 
 🤖 **Stack Tech**
 
-Completar...
-
+- Python: Como lenguaje de programación.
+  
+- Librerías: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Imblearn, Scipy, TensorFlow.
+  
+- IDE: Jupyter Notebook y Visual Studio Code como entornos de desarrollo.
+  
+- Power BI: Visualización de datos con DAX.
+  
+- Streamlit: Creación de aplicación web interactiva.
+  
+- GitHub: Gestión del código fuente y desarrollo colaborativo en equipo.
+  
+- Microsoft Loop: Utilizado para la gestión de equipo.
 
 🔗 **Enlaces de Proyecto y Relevantes**
 
