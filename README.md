@@ -10,29 +10,29 @@
 
 **Descripción:** Orientado a Fintech. Se parte de las siguientes primicias, problema y solución.
 
-    - Problema: El fraude en pagos digitales es un problema creciente que afecta tanto a los comerciantes como a los clientes. Las transacciones fraudulentas pueden generar pérdidas financieras significativas, dañar la reputación de las empresas y erosionar la confianza de los consumidores.
-    - Solución: El sistema de detección de fraude en monederos virtuales ofrece una solución integral para combatir el fraude en pagos digitales. Proporciona una variedad de beneficios para clientes y comerciantes:
+- Problema: El fraude en pagos digitales es un problema creciente que afecta tanto a los comerciantes como a los clientes. Las transacciones fraudulentas pueden generar pérdidas financieras significativas, dañar la reputación de las empresas y erosionar la confianza de los consumidores.
+- Solución: El sistema de detección de fraude en monederos virtuales ofrece una solución integral para combatir el fraude en pagos digitales. Proporciona una variedad de beneficios para clientes y comerciantes:
 
 
 **Beneficios para los Clientes:**
 
-    - Mayor seguridad: Protege las transacciones de los clientes contra el fraude y la usurpación de identidad, brindando tranquilidad y confianza al realizar pagos digitales.
-    - Experiencia de pago fluida: Minimiza las interrupciones en el proceso de pago, evitando molestias y retrasos innecesarios.
-    - Protección de datos personales: Resguarda la información personal y financiera de los clientes, previniendo su exposición en caso de fraude.
+- Mayor seguridad: Protege las transacciones de los clientes contra el fraude y la usurpación de identidad, brindando tranquilidad y confianza al realizar pagos digitales.
+- Experiencia de pago fluida: Minimiza las interrupciones en el proceso de pago, evitando molestias y retrasos innecesarios.
+- Protección de datos personales: Resguarda la información personal y financiera de los clientes, previniendo su exposición en caso de fraude.
 
 **Beneficios para los Comerciantes:**
 
-    - Reducción de pérdidas por fraude: Disminuye las pérdidas financieras asociadas a transacciones fraudulentas, mejorando la rentabilidad del negocio.
-    - Mejora de la reputación: Protege la imagen y reputación de la empresa al prevenir transacciones fraudulentas y garantizar la seguridad de los pagos.
-    - Aumento de la confianza del cliente: Fortalece la confianza de los clientes en la seguridad de la plataforma de pago, fomentando la lealtad y la retención de clientes.
+- Reducción de pérdidas por fraude: Disminuye las pérdidas financieras asociadas a transacciones fraudulentas, mejorando la rentabilidad del negocio.
+- Mejora de la reputación: Protege la imagen y reputación de la empresa al prevenir transacciones fraudulentas y garantizar la seguridad de los pagos.
+- Aumento de la confianza del cliente: Fortalece la confianza de los clientes en la seguridad de la plataforma de pago, fomentando la lealtad y la retención de clientes.
 
 **Características Clave:**
 
-    - Detección en tiempo real: Analiza las transacciones en tiempo real para identificar y prevenir fraudes de manera inmediata.
-    - Aprendizaje automático: Utiliza técnicas de aprendizaje automático para adaptarse a las tendencias y patrones de fraude en constante evolución.
-    - Análisis de comportamiento: Evalúa el comportamiento de los usuarios para detectar anomalías y actividades sospechosas.
-    - Integración flexible: Se integra fácilmente con plataformas de monederos virtuales existentes y sistemas de pago.
-    - Personalizable: Permite ajustar las reglas y algoritmos de detección de fraude para satisfacer las necesidades específicas de cada negocio.
+- Detección en tiempo real: Analiza las transacciones en tiempo real para identificar y prevenir fraudes de manera inmediata.
+- Aprendizaje automático: Utiliza técnicas de aprendizaje automático para adaptarse a las tendencias y patrones de fraude en constante evolución.
+- Análisis de comportamiento: Evalúa el comportamiento de los usuarios para detectar anomalías y actividades sospechosas.
+- Integración flexible: Se integra fácilmente con plataformas de monederos virtuales existentes y sistemas de pago.
+- Personalizable: Permite ajustar las reglas y algoritmos de detección de fraude para satisfacer las necesidades específicas de cada negocio.
 
 
 🎯 **Objetivo**
@@ -42,24 +42,24 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 
 **Análisis de transacciones:**
 
-    - Descriptivo y Predictivo: No solo identificar patrones y anomalías, sino también implementar análisis predictivos para anticipar posibles fraudes. Utilizar técnicas de machine learning para detectar comportamientos sospechosos.
-    - Detección en tiempo real: Implementar un sistema que permita el análisis de transacciones en tiempo real para una respuesta inmediata.
+- Descriptivo y Predictivo: No solo identificar patrones y anomalías, sino también implementar análisis predictivos para anticipar posibles fraudes. Utilizar técnicas de machine learning para detectar comportamientos sospechosos.
+- Detección en tiempo real: Implementar un sistema que permita el análisis de transacciones en tiempo real para una respuesta inmediata.
 
 **Reglas básicas de detección de fraude:**
 
-    - Algoritmos avanzados: Algoritmos de machine learning para mejorar la precisión en la detección de fraudes.
+- Algoritmos avanzados: Algoritmos de machine learning para mejorar la precisión en la detección de fraudes.
 
 **Visualización:**
 
-    - Análisis detallado: Incluir análisis detallados y gráficos interactivos que muestren las tendencias y estadísticas de fraude.
+- Análisis detallado: Incluir análisis detallados y gráficos interactivos que muestren las tendencias y estadísticas de fraude.
 
 **Cálculo de KPIs del modelo:**
 
-    - Indicadores de rendimiento: Incluir una métrica que cuantitativa que permita evaluar el rendimiento del modelo, para medir el éxito de este e identificar áreas de oportunidad.
+- Indicadores de rendimiento: Incluir una métrica que cuantitativa que permita evaluar el rendimiento del modelo, para medir el éxito de este e identificar áreas de oportunidad.
 
 **Despliegue del modelo:**
 
-    - Notificación: Entregar informes periódicos de monitoreo para toma de decisiones.
+- Notificación: Entregar informes periódicos de monitoreo para toma de decisiones.
 
 
 🧩 **Colaboradores**
