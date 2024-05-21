@@ -1,6 +1,5 @@
 💎 **Nombre del Producto**
 
-https://github.com/No-Country/c18-80-t-data-bi/blob/main/README.md
 ![texto cualquiera por si no carga la imagen](https://github.com/No-Country/c18-80-t-data-bi/blob/main/WS.png)
 
 
