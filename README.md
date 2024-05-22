@@ -65,17 +65,17 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 🧩 **Colaboradores**
 
 
-- Tulio Bastidas Alvarez - Data Analyst **>>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/)
+- Tulio Bastidas Alvarez - Data Analyst **>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [GitHub](https://github.com/tuliobast/)
 
-- Tomás Del Barco - Data Analyst **>>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/)
+- Tomás Del Barco - Data Analyst **>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [GitHub](https://github.com/tDelbarco/)
 
-- Estefanía Ochoa Henao - Data Analyst **>>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/)
+- Estefanía Ochoa Henao - Data Analyst **>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/) | [GitHub](https://github.com/Estefa8a/)
 
-- Gabriela Franco - Data Analyst **>>>** [in](https://www.linkedin.com/in/gabyfranco/)
+- Gabriela Franco - Data Analyst **>>** [in](https://www.linkedin.com/in/gabyfranco/) | [GitHub](https://github.com/gabyfrancom/)
 
-- Rodrigo Nicolás Ayala - Data Science **>>>** [in](https://www.linkedin.com/in/arodrigonicolas/)
+- Rodrigo Nicolás Ayala - Data Science **>>** [in](https://www.linkedin.com/in/arodrigonicolas/) | [GitHub](https://github.com/RodriNico2206/)
 
-- Delicia Fedele Boria - Machine Learning **>>>** [in](https://www.linkedin.com/in/deliciafedeleboria/)
+- Delicia Fedele Boria - Machine Learning **>>** [in](https://www.linkedin.com/in/deliciafedeleboria/) | [GitHub](https://github.com/defedeleboria/)
 
 
 🤖 **Stack Tech**
