@@ -2,7 +2,7 @@
 
 💎 **Nombre del Producto**
 
-(https://github.com/No-Country/c18-80-t-data-bi/blob/main/WS.png)
+![logo](https://github.com/No-Country/c18-80-t-data-bi/blob/main/WS.png)
 
 
 📊 **Rubro**
