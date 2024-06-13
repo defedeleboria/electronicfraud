@@ -1,0 +1,9 @@
+data/raw_data/test_identity.csv.zip
+data/raw_data/test_identity.csv
+data/raw_data/test_transaction.csv
+data/raw_data/train_identity.csv
+data/raw_data/test_transaction.csv.zip
+data/raw_data/train_identity.csv.zip
+data/raw_data/train_transaction.csv.zip
+data/raw_data/train_transaction.csv
+notebooks/kaggle_data_processing.ipynb
