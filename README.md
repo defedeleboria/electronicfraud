@@ -99,4 +99,4 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 
 - **Dashboard:** [![looker studio](http://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg "looker studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
  
-- **[Video Presentacion] [![drive](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)**  
+- **[Video Presentacion] [![drive](https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png)](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)**  
