@@ -66,17 +66,17 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 🧩 **Colaboradores**
 
 
-- Tulio Bastidas Alvarez - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [:fa-github-alt:](https://github.com/tuliobast/)
+- Tulio Bastidas Alvarez - Data Analyst **>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [github](https://github.com/tuliobast/)
 
-- Tomás Del Barco - Data Analyst **>>**  [:fa-linkedin-square:](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [:fa-github-alt:](https://github.com/tDelbarco/)
+- Tomás Del Barco - Data Analyst **>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [github](https://github.com/tDelbarco/)
 
-- Estefanía Ochoa Henao - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/estefania-ochoa-henao/) | [:fa-github-alt:](https://github.com/Estefa8a/)
+- Estefanía Ochoa Henao - Data Analyst **>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/) | [github](https://github.com/Estefa8a/)
 
-- Gabriela Franco - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/gabyfranco/) | [:fa-github-alt:](https://github.com/gabyfrancom/)
+- Gabriela Franco - Data Analyst **>>** [in](https://www.linkedin.com/in/gabyfranco/) | [github](https://github.com/gabyfrancom/)
 
-- Rodrigo Nicolás Ayala - Data Science **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/arodrigonicolas/) | [:fa-github-alt:](https://github.com/RodriNico2206/)
+- Rodrigo Nicolás Ayala - Data Science **>>** [in](https://www.linkedin.com/in/arodrigonicolas/) | [github](https://github.com/RodriNico2206/)
 
-- Delicia Fedele Boria - Machine Learning **>>** [ :fa-linkedin-square: ](https://www.linkedin.com/in/deliciafedeleboria/) | [:fa-github-alt:](https://github.com/defedeleboria/)
+- Delicia Fedele Boria - Machine Learning **>>** [in](https://www.linkedin.com/in/deliciafedeleboria/) | [github](https://github.com/defedeleboria/)
 
 
 🤖 **Stack Tech**
