@@ -1,0 +1,11 @@
+loss,initial_classification,final_classification
+0.3440521543411378,Posible Fraude,No Fraudulenta
+0.31123798608753295,Posible Fraude,Posible Fraude Grave
+0.3448321817073315,Posible Fraude,No Fraudulenta
+0.3365711072355055,Posible Fraude,Posible Fraude Grave
+0.2994980234272484,No Fraudulenta,Posible Fraude Grave
+0.35024989281844693,Posible Fraude,Posible Fraude
+0.32421973493261597,Posible Fraude,Posible Fraude
+0.3843184072045327,Posible Fraude,Posible Fraude
+0.346972829068749,Posible Fraude,Posible Fraude
+0.380298091310585,Posible Fraude,Posible Fraude
