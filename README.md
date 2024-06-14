@@ -98,6 +98,7 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 🔗 **Enlaces de Proyecto y Relevantes**
 
 - **Dashboard:**
+  
  [![Looker Studio](https://agenciaseo.eu/wp-content/uploads/2023/09/logo-looker-studio.jpg "Looker Studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
  
 - **[Video Presentacion](https://ai.invideo.io/watch/eJ0_n8hHvSy)**  
