@@ -1,9 +1,10 @@
- #This repository is part of No Country's Simulation Tech Program in Data-BI.
+# This repository is part of No Country's Simulation Tech Program in Data-BI.
 
 💎 **Nombre del Producto**
 
 ![logo](https://github.com/tuliobast/c18-80-t-data-bi/blob/bce473aad9ef225737fb7397cb829494f7ffeab1/WS.png)
 
+## WalletShield
 
 📊 **Rubro**
 
@@ -65,22 +66,22 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 🧩 **Colaboradores**
 
 
-- Tulio Bastidas Alvarez - Data Analyst **>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [GitHub](https://github.com/tuliobast/)
+- Tulio Bastidas Alvarez - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [:fa-github-alt:](https://github.com/tuliobast/)
 
-- Tomás Del Barco - Data Analyst **>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [GitHub](https://github.com/tDelbarco/)
+- Tomás Del Barco - Data Analyst **>>**  [:fa-linkedin-square:](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [:fa-github-alt:](https://github.com/tDelbarco/)
 
-- Estefanía Ochoa Henao - Data Analyst **>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/) | [GitHub](https://github.com/Estefa8a/)
+- Estefanía Ochoa Henao - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/estefania-ochoa-henao/) | [:fa-github-alt:](https://github.com/Estefa8a/)
 
-- Gabriela Franco - Data Analyst **>>** [in](https://www.linkedin.com/in/gabyfranco/) | [GitHub](https://github.com/gabyfrancom/)
+- Gabriela Franco - Data Analyst **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/gabyfranco/) | [:fa-github-alt:](https://github.com/gabyfrancom/)
 
-- Rodrigo Nicolás Ayala - Data Science **>>** [in](https://www.linkedin.com/in/arodrigonicolas/) | [GitHub](https://github.com/RodriNico2206/)
+- Rodrigo Nicolás Ayala - Data Science **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/arodrigonicolas/) | [:fa-github-alt:](https://github.com/RodriNico2206/)
 
-- Delicia Fedele Boria - Machine Learning **>>** [in](https://www.linkedin.com/in/deliciafedeleboria/) | [GitHub](https://github.com/defedeleboria/)
+- Delicia Fedele Boria - Machine Learning **>>** [:fa-linkedin-square:](https://www.linkedin.com/in/deliciafedeleboria/) | [:fa-github-alt:](https://github.com/defedeleboria/)
 
 
 🤖 **Stack Tech**
 
-- Python: Como lenguaje de programación.
+- lenguaje de programación: [![pyhton](https://camo.githubusercontent.com/1518666201c8733ac9ac29e685fbbbca54f7e2cf51cde0ab155ac05e53af59f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e31302b2d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130 "python")](https://www.python.org/)
   
 - Librerías: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Imblearn, Scipy, TensorFlow.
   
@@ -96,4 +97,8 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 
 🔗 **Enlaces de Proyecto y Relevantes**
 
-Completar...
+- **Dashboard:**
+ [![Looker Studio](https://agenciaseo.eu/wp-content/uploads/2023/09/logo-looker-studio.jpg "Looker Studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
+ 
+- **[Video Presentacion][1]**
+[1]: https://ai.invideo.io/watch/eJ0_n8hHvSy "Video Presentacion"
