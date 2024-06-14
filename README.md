@@ -97,8 +97,11 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 
 🔗 **Enlaces de Proyecto y Relevantes**
 
-- **Dashboard:**  [![looker studio](http://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg "looker studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
+- **Dashboard:**
+    [![looker studio](http://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg "looker studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
  
-- **Video:**  [![drive](https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png)](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)
+- **Video:**
+  [![drive](https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png)](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)
 
-- **MVP:** [![loop](https://res.cdn.office.net/fluid/prod/loop-app/hashed/assets/favicon/favicon.6869e16c22.svg)](https://home.microsoftpersonalcontent.com/:fl:/g/contentstorage/CSP_f713efc6-d9ac-4ebd-aa56-2ba86e21e4ac/IQLSm3z4npyRRI6kReC4qGFWAcpRhQN2VX8LZIQzNbzN1OM?e=VwNaap&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF9mNzEzZWZjNi1kOWFjLTRlYmQtYWE1Ni0yYmE4NmUyMWU0YWMmZD1iIXh1OFQ5NnpadlU2cVZpdW9iaUhrckozM0E1MkNXdjlBdlZ5Z3IybmFWN1NtelJmeVFUT0ZSTDBXTzVZSEJSbHomZj0wMVZZS1lUSUdTVE42UFJIVTRTRkNJNUpDRjRDNEtRWUtXJmM9JTJGJmZsdWlkPTEmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjE4WWlGNGRUaFVPVFo2V25aVk5uRldhWFZ2WW1sSWEzSktNek5CTlRKRFYzWTVRWFpXZVdkeU1tNWhWamRUYlhwU1pubFJWRTlHVWt3d1YwODFXVWhDVW14NmZEQXhWbGxMV1ZSSlFsRmFVVTlUU2xCVlZ6ZFNRekpJV2tkSVdGTTBURm8wVmtJJTNEJTIyJTJDJTIyaSUyMiUzQSUyMjFkM2M1ZjZhLTYwZWQtNGU2MS1hMDc0LThkYWZiNmIyNGZmZiUyMiU3RA%3D%3D)
+- **MVP:**
+    [![loop](https://res.cdn.office.net/fluid/prod/loop-app/hashed/assets/favicon/favicon.6869e16c22.svg)](https://home.microsoftpersonalcontent.com/:fl:/g/contentstorage/CSP_f713efc6-d9ac-4ebd-aa56-2ba86e21e4ac/IQLSm3z4npyRRI6kReC4qGFWAcpRhQN2VX8LZIQzNbzN1OM?e=VwNaap&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF9mNzEzZWZjNi1kOWFjLTRlYmQtYWE1Ni0yYmE4NmUyMWU0YWMmZD1iIXh1OFQ5NnpadlU2cVZpdW9iaUhrckozM0E1MkNXdjlBdlZ5Z3IybmFWN1NtelJmeVFUT0ZSTDBXTzVZSEJSbHomZj0wMVZZS1lUSUdTVE42UFJIVTRTRkNJNUpDRjRDNEtRWUtXJmM9JTJGJmZsdWlkPTEmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjE4WWlGNGRUaFVPVFo2V25aVk5uRldhWFZ2WW1sSWEzSktNek5CTlRKRFYzWTVRWFpXZVdkeU1tNWhWamRUYlhwU1pubFJWRTlHVWt3d1YwODFXVWhDVW14NmZEQXhWbGxMV1ZSSlFsRmFVVTlUU2xCVlZ6ZFNRekpJV2tkSVdGTTBURm8wVmtJJTNEJTIyJTJDJTIyaSUyMiUzQSUyMjFkM2M1ZjZhLTYwZWQtNGU2MS1hMDc0LThkYWZiNmIyNGZmZiUyMiU3RA%3D%3D)
