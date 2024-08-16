@@ -65,46 +65,61 @@ El objetivo del modelo es hacer un análisis exploratorio de las transacciones e
 
 🧩 **Colaboradores**
 
+- **Tulio Bastidas Alvarez - Data Analyst**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-bastidas-alvarez/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuliobast/)
 
-- Tulio Bastidas Alvarez - Data Analyst **>>** [in](https://www.linkedin.com/in/tulio-bastidas-alvarez/) | [github](https://github.com/tuliobast/)
+- **Tomás Del Barco - Data Analyst**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-del-barco-b74337229/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tDelbarco/)
 
-- Tomás Del Barco - Data Analyst **>>**  [in](https://www.linkedin.com/in/tomás-del-barco-b74337229/) | [github](https://github.com/tDelbarco/)
+- **Estefanía Ochoa Henao - Data Analyst**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefania-ochoa-henao/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Estefa8a/)
 
-- Estefanía Ochoa Henao - Data Analyst **>>** [in](https://www.linkedin.com/in/estefania-ochoa-henao/) | [github](https://github.com/Estefa8a/)
+- **Gabriela Franco - Data Analyst**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabyfranco/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabyfrancom/)
 
-- Gabriela Franco - Data Analyst **>>** [in](https://www.linkedin.com/in/gabyfranco/) | [github](https://github.com/gabyfrancom/)
+- **Rodrigo Nicolás Ayala - Data Science**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arodrigonicolas/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodriNico2206/)
 
-- Rodrigo Nicolás Ayala - Data Science **>>** [in](https://www.linkedin.com/in/arodrigonicolas/) | [github](https://github.com/RodriNico2206/)
-
-- Delicia Fedele Boria - Machine Learning **>>** [in](https://www.linkedin.com/in/deliciafedeleboria/) | [github](https://github.com/defedeleboria/)
-
+- **Delicia Fedele Boria - Machine Learning**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deliciafedeleboria/) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/defedeleboria/)
 
 🤖 **Stack Tech**
 
-- Lenguaje de programación:  [![pyhton](https://camo.githubusercontent.com/1518666201c8733ac9ac29e685fbbbca54f7e2cf51cde0ab155ac05e53af59f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e31302b2d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130 "python")](https://www.python.org/)
-  
-- Librerías: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Imblearn, Scipy, TensorFlow.
-  
-- IDE: Jupyter Notebook y Visual Studio Code como entornos de desarrollo.
-  
-- Google Looker Studio: Visualización de datos.
-  
-- Streamlit: Creación de aplicación web interactiva.
-  
-- GitHub: Gestión del código fuente y desarrollo colaborativo en equipo.
-  
-- Microsoft Loop: Utilizado para la gestión de equipo.
+Lenguaje de Programación: 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+Librerías:
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Imblearn](https://img.shields.io/badge/Imblearn-0D76AB?style=for-the-badge&logo=python&logoColor=white)](https://imbalanced-learn.org/stable/)
+[![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+IDE:
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+Gestión del Código:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 
 🔗 **Enlaces de Proyecto y Relevantes**
 
-- **Dashboard:**
-  
-    [![looker studio](http://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg "looker studio")](https://lookerstudio.google.com/u/0/reporting/b78bfac4-b284-4ac3-b22c-e1086978fc2e/page/p_nu82h9i7hd?s=lz3KD2H-o48)
+- **Dashboard:** [![Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
  
-- **Video:**
-  
-  [![drive](https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png)](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)
+- **Video:** [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/11PDrwSwaAR9YOWB9at6i43tjDa7-dcvB?usp=sharing)
 
-- **MVP:**
-  
-    [![loop](https://res.cdn.office.net/fluid/prod/loop-app/hashed/assets/favicon/favicon.6869e16c22.svg)](https://home.microsoftpersonalcontent.com/:fl:/g/contentstorage/CSP_f713efc6-d9ac-4ebd-aa56-2ba86e21e4ac/IQLSm3z4npyRRI6kReC4qGFWAcpRhQN2VX8LZIQzNbzN1OM?e=VwNaap&nav=cz0lMkZjb250ZW50c3RvcmFnZSUyRkNTUF9mNzEzZWZjNi1kOWFjLTRlYmQtYWE1Ni0yYmE4NmUyMWU0YWMmZD1iIXh1OFQ5NnpadlU2cVZpdW9iaUhrckozM0E1MkNXdjlBdlZ5Z3IybmFWN1NtelJmeVFUT0ZSTDBXTzVZSEJSbHomZj0wMVZZS1lUSUdTVE42UFJIVTRTRkNJNUpDRjRDNEtRWUtXJmM9JTJGJmZsdWlkPTEmYT1Mb29wQXBwJnA9JTQwZmx1aWR4JTJGbG9vcC1wYWdlLWNvbnRhaW5lciZ4PSU3QiUyMnclMjIlM0ElMjJUMFJUVUh4b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjE4WWlGNGRUaFVPVFo2V25aVk5uRldhWFZ2WW1sSWEzSktNek5CTlRKRFYzWTVRWFpXZVdkeU1tNWhWamRUYlhwU1pubFJWRTlHVWt3d1YwODFXVWhDVW14NmZEQXhWbGxMV1ZSSlFsRmFVVTlUU2xCVlZ6ZFNRekpJV2tkSVdGTTBURm8wVmtJJTNEJTIyJTJDJTIyaSUyMiUzQSUyMjFkM2M1ZjZhLTYwZWQtNGU2MS1hMDc0LThkYWZiNmIyNGZmZiUyMiU3RA%3D%3D)
+- **MVP:** [![Microsoft Loop](https://img.shields.io/badge/Microsoft%20Loop-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-loop)
